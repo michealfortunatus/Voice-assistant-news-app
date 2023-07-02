@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![alan news](https://github.com/michealfortunatus/Voice-assistant-news-app/assets/103397083/e2a3d87c-67d6-41a7-b463-ea97083e5c10)
 
 
 # Project Description
