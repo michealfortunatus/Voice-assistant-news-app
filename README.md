@@ -6,7 +6,7 @@
 
 Alan News is a cutting edge Artficial intelligence voice assistant app that brings you the latest news from around the world in a natural and conversational way. The app also provides a range of interactive features such as voice commands to skip or repeat articles, adjust the reading speed and ask follow-up questions.
 
-# Live Link
+# Live view
 https://alannnews.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
